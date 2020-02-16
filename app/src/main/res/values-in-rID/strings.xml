@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media To-Do</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="hello_blank_fragment">Halo blank fragment</string>
+    <string name="title">JUDUL</string>
+    <string name="_11_05_04">11:05:04</string>
+    <string name="play">Mulai</string>
+    <string name="audio_1">Suara 1</string>
+    <string name="_12_12_10">12:12:10</string>
+    <string name="view">Lihat</string>
+    <string name="insert_text">Masukan teks</string>
+    <string name="add">Tambah</string>
+    <string name="_0_0_0">0:0:0</string>
+    <string name="record">Rekam</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Selesai</string>
+    <string name="edit">Ubah</string>
+    <string name="phew_there_is_nothing_to_do">Yey... Tidak ada yang harus dilakukan</string>
+</resources>
